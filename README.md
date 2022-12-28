@@ -9,7 +9,7 @@ Age = "14"
 Country = "ɪɴᴅɪᴀ"
 ```
 
-[![telegram badge](https://img.shields.io/badge/@KIRITO1240-30302f?style=for-the-badge&logo=telegram)](https://t.me/KIRITO_1240)
+[![telegram badge](https://img.shields.io/badge/@KIRITO1240-30302f?style=for-the-badge&logo=telegram)](https://telegram.dog/KIRITO_1240)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KIRITO-40&label=Profile%20Views&red=red&style=flat-square" alt="KIRITO-40" /> </p>
 
 - ❥︎ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ
